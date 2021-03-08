@@ -1,4 +1,4 @@
-; Code typed on boar0d or Edwin Editor during lecture
+; Code typed on board or Edwin Editor during lecture
 
 ; Tower of Hanoi
 (define (print x y z)
