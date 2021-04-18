@@ -35,5 +35,3 @@ square ; What's the value of this symbol
   (cond
    ((< x 0) (- x))
    (else x)))
-
-
